@@ -1,0 +1,3 @@
+Hello GitHub!
+My first Notepad project.
+Created by Nutcha.
